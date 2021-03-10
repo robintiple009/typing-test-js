@@ -104,6 +104,24 @@ big {
 /*--------------------------------------------------------------
 Layout
 --------------------------------------------------------------*/
+/*Colors
+Indigo - #629be9
+Purple Heart - #1e0781
+
+Shadow - #93783a
+Black - #0b051f
+
+Jungle Green - #4cab88
+Eggplant - #4a193d
+
+Red - #df1b41
+Spring Green - #f6fed2
+
+Fern - #257718
+Yellow Green - #d4f37c
+
+
+*/
 body {
     margin: 0;
     padding: 0;
@@ -111,8 +129,8 @@ body {
 
 .masthead {
     padding: 1em 2em;
-    background-color: #0D1B2E;
-    color: white;
+    background-color: #133c55;
+    color: #f6fed2;
 }
 
 .masthead h1 {
@@ -121,8 +139,8 @@ body {
 
 .intro {
     padding: 2em 2em;
-    color: #ffffff;
-    background: #429890;
+    color: #d4f37c;
+    background: #386fa4;
 }
 
 
